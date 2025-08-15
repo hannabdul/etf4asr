@@ -3,4 +3,6 @@ Official repo for the paper "An Effective Training Framework for Light-Weight Au
 
 The paper is available [etf4asr](https://arxiv.org/abs/2505.16991)
 
-Code will be uploaded soon !!!
+## Update
+Code is released !!!
+
